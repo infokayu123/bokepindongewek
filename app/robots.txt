@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://bokepindongewek.live/sitemap.xml
+Sitemap: https://bokepindongewek.pages.dev/sitemap.xml
